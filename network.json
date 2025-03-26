@@ -1,0 +1,12 @@
+{
+  "name": "Cube Network",
+  "chainId": 202525,
+  "networkType": "polygon-supernet",
+  "nativeCurrency": {
+    "name": "Cube Token",
+    "symbol": "MQB",
+    "decimals": 18
+  },
+  "rpcUrls": ["https://rpc.cubenetwork.io"],
+  "explorerUrls": ["https://explorer.cubenetwork.io"]
+}
